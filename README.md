@@ -27,5 +27,8 @@ etc
 
 
 The O/P of the chat is :
+
+
+![](Images/img1.png)
  
 
