@@ -1,0 +1,9 @@
+pip install nltk 
+pip install docx2txt
+pip install tika
+pip install newspaper
+pip install numpy
+pip install -U scikit-learn
+
+
+ 
