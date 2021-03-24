@@ -4,13 +4,14 @@
 # Chat Bot :
 
 A chatbot also known as a chatterbot, bot, artificial agent, etc. It is an intelligent piece of software that is capable of communicating and performing actions similar to a human.
-In this project, we are going to Build a ChatBot Using nltk. NLP-Python is the key to the idea behind the chatbot.
+In this project, we are going to  Build a ChatBot Using nltk. NLP-Python is the key to the idea behind the chatbot.
 
-This chat-bot is more informative than interactive. The main aim is to provide proper information about the topic in a formal way (We can use many ways to describe the personality ).
 
-Here Mr. DB can answer any question about CANCER.The Basic Idea behind the chat-Bot is: Input --> Understanding / Extracting the meaning of the sentence (NLU: Tokenization, Lemmatization, Normalization, Removing stopwords, Recognising Entetis, Dependency Parsing, etc ) --> Generation of the proper / most relevant answer from the data (NLG ) here we are finding the most relatable answer to the question (Bag of words / TF-IDF vectorization approach -- Cosine similarity )
+This chat-bot is more  informative than interactive. The main aim is to provide proper information about the topic in a formal way (We can use many ways to describe the personality ).
 
-PS: This project is to understand the exact meaning behind the word mapping and all the relations hence we have used all the simpler techniques One can go for Different approaches for Ex: 
+Here Mr. DB can  answer any question about CANCER.The Basic Idea behind the chat-Bot is: Input --> Understanding / Extracting the meaning of the sentence (NLU: Tokenization, Lemmatization, Normalization, Removing stopwords, Recognising Entetis, Dependency Parsing, etc ) --> Generation of the proper / most relevant answer from the data (NLG ) here we are finding the most relatable answer to the question (Bag of words / TF-IDF vectorization approach -- Cosine similarity )
+
+PS: This project  is to understand the exact meaning behind the word mapping and all the relations hence we have used all the simpler techniques One can go for Different approaches for Ex: 
 
 1 ) Using generic framework:: NLTK has a module, nltk.chat, which simplifies building these engines by providing a generic framework.
 
